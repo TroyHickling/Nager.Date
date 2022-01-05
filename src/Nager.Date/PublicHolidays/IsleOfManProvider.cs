@@ -71,7 +71,7 @@ namespace Nager.Date.PublicHolidays
 
 
 
-        private PublicHoliday GetQueensPlatinumJubilee(int year, CountryCode countryCode)
+        private PublicHoliday GetSpringBankHoliday(int year, CountryCode countryCode)
         { 
             var name = "Spring Bank Holiday";
 
